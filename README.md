@@ -33,8 +33,6 @@ Snowflake account with Cortex AI
 
 Streamlit inside Snowflake
 
-Python 3.8+
-
 No local installs needed.
 
 🤝 Contributing
